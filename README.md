@@ -50,7 +50,7 @@ Respira fundo, sorria e deixa as preocupações de lado.
 </div> <br>
   
 <div>    
-     ![Snake animation](https://github.com/holivane/holivane/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/Holivane/Holivane/blob/output/github-contribution-grid-snake.svg)
 </div>  
   
   <!-- 
