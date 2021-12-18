@@ -1,11 +1,13 @@
-## Oiê, boas vindas a você! <br> Respira fundo, sorria e deixa as preocupações de lado. 
+## Oiê, boas vindas a você! 
+Respira fundo, sorria e deixa as preocupações de lado. 
 
-
-- 🔭 Futura back-end, aluna da Alura e Camper na 42SP<br>
+##
+- 🔭 Futura back-end
+- 📚 Aluna da Alura
+- ⛺ Camper na 42SP
 - 🌱 Estudando NodeJS
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Eu acreditei naquele filme que diz: "30 é a idade do sucesso". Filmes... 🤦🏻‍♀️
-
 ##
 <div style="display: inline_block" >
   <a href="https://github.com/holivane">
