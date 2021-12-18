@@ -1,6 +1,5 @@
 ## Oiê, boas vindas a você! 
 Respira fundo, sorria e deixa as preocupações de lado. 
-
 ##
 - 🔭 Futura back-end
 - 📚 Aluna da Alura
@@ -23,11 +22,8 @@ Respira fundo, sorria e deixa as preocupações de lado.
     <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
     <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-</div><br>  
-  
-<div align="center" style="display: inline_block">
-<img aling="center" alt="Holi-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/303b6ca8e079f5a4bdde73781719660d.gif">
 </div>
+  
      
 <!--    
   <img align="center" alt="Holi-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -47,13 +43,21 @@ Respira fundo, sorria e deixa as preocupações de lado.
   <a href="https://www.linkedin.com/in/holivaneholanda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
   
+##
+  
+<div align="center" style="display: inline_block" >
+<img aling="center" alt="Holi-pic" height="200" style="border-radius:100px;" src="https://i.picasion.com/pic91/303b6ca8e079f5a4bdde73781719660d.gif">
+</div> <br>
+  
+<div>    
+     ![Snake animation](https://github.com/holivane/holivane/blob/output/github-contribution-grid-snake.svg)
+</div>  
+  
   <!-- 
   <a href="https://www.youtube.com/channel/UCoOLVaMTUQcjf1KgZiqp6aw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
-<div>    
-     ![Snake animation](https://github.com/holivane/holivane/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 -->
     
