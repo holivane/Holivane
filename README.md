@@ -1,6 +1,7 @@
 ## Oiê, boas vindas a você! 
 Respira fundo, sorria e deixa as preocupações de lado. 
 ##
+### Sobre mim
 - 🔭 Futura back-end
 - 📚 Aluna da Alura
 - ⛺ Camper na 42SP
