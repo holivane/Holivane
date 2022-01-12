@@ -5,7 +5,7 @@ Respira fundo, sorria e deixa as preocupações de lado.
 - 🔭 Futura back-end
 - 📚 Aluna da Alura
 - ⛺ Camper na 42SP
-- 🌱 Estudando NodeJS
+- 🌱 Estudando ReactJS
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Eu acreditei naquele filme que diz: "30 é a idade do sucesso". Filmes... 🤦🏻‍♀️
 ##
@@ -24,12 +24,13 @@ Respira fundo, sorria e deixa as preocupações de lado.
     <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     <img align="center" alt="Holi-Ts" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Holi-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
      
 <!--    
   <img align="center" alt="Holi-Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Holi-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <img align="center" alt="Holi-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Holi-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 -->
