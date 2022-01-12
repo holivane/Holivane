@@ -5,7 +5,7 @@ Respira fundo, sorria e deixa as preocupações de lado.
 - 🔭 Futura back-end
 - 📚 Aluna da Alura
 - ⛺ Camper na 42SP
-- 🌱 Estudando ReactJS
+- 🌱 Estudando ReactJS: Bootcamp Eduzz Fullstack Developer #2 na DIO
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Eu acreditei naquele filme que diz: "30 é a idade do sucesso". Filmes... 🤦🏻‍♀️
 ##
