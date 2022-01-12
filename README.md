@@ -44,9 +44,7 @@ Respira fundo, sorria e deixa as preocupações de lado.
   <a href="https://www.linkedin.com/in/holivaneholanda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
   
-##
-
-![Snake animation](https://github.com/holivane/holivane/blob/output/github-contribution-grid-snake.svg)  
+## 
   
 <div align="center" style="display: inline_block" >
 <img aling="center" alt="Holi-pic" height="200" style="border-radius:100px;" src="https://i.picasion.com/pic91/303b6ca8e079f5a4bdde73781719660d.gif">
