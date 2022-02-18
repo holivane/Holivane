@@ -29,6 +29,7 @@ Respira fundo, sorria e deixa as preocupações de lado.
     <img align="center" alt="Holi-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Holi-NestJS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     <img align="center" alt="Holi-Sequelize" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+    <img align="center" alt="Holi-Shell" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 
 </div>
   
