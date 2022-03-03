@@ -1,13 +1,9 @@
-## Oiê, meu nome é Holivane! 
-Respira fundo, sorria e deixa as preocupações de lado. 
-##
+## Holivane Holanda
+
 ### Sobre mim
-- 🔭 Futura back-end
+- 🔭 Back-end Júnior
 - 📚 Aluna da Alura
-- ⛺ Camper na 42SP
-- 🌱 Estudando: NestJS, React e RestJS
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Eu acreditei naquele filme que diz: "30 é a idade do sucesso". Filmes... 🤦🏻‍♀️
 ##
 <div style="display: inline_block" >
   <a href="https://github.com/holivane">
