@@ -7,8 +7,8 @@
 ##
 <div style="display: inline_block" >
   <a href="https://github.com/holivane">
-  <img height="180" hspace="25" src="https://github-readme-stats.vercel.app/api?username=holivane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
-  <img height="180" hspace="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holivane&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150" hspace="25" src="https://github-readme-stats.vercel.app/api?username=holivane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
+  <img height="150" hspace="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holivane&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -45,6 +45,6 @@
  <a href="https://discord.gg/holivane" target="_blank"><img align="top" hspace="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div> </br>
 <div align="center" style="display: inline_block">
- <img align="center" alt="Holi-pic" height="180" src="https://i.picasion.com/pic91/303b6ca8e079f5a4bdde73781719660d.gif">
+ <img align="center" alt="Holi-pic" height="150" src="https://i.picasion.com/pic91/303b6ca8e079f5a4bdde73781719660d.gif">
 </div>
     
