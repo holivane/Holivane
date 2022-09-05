@@ -5,7 +5,7 @@
 - 📚 Aluna da Alura
 - 😄 Pronouns: ela/dela
 ##
-<div align="center" style="display: inline_block" >
+<div style="display: inline_block" >
   <a href="https://github.com/holivane">
   <img height="180" hspace="25" src="https://github-readme-stats.vercel.app/api?username=holivane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
   <img height="180" hspace="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holivane&layout=compact&langs_count=7&theme=dracula"/>
