@@ -1,9 +1,11 @@
 ## Holivane Holanda
 
 ### Sobre mim
-- 🔭 Back-end Júnior
-- 📚 Aluna da Alura
-- 😄 Pronouns: ela/dela
+- 🔭 Desenvolvedora de Software
+- 📚 Eterna estudante
+- 🙋‍♀ Pronouns: ela/dela
+- 💻 Principais linguagens: Javascript e Python
+- 🤼‍♀‍ Atividades físicas: Muay Thay, Jiu-Jitsu, Pilates e Musculação
 
 ##
 <div style="display: inline_block" >
@@ -16,7 +18,9 @@
     <img alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="JavaScript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="TypeScript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">       <img alt="VSCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img alt="TypeScript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="VSCode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img alt="Holi-C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
     <img alt="Holi-Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">    
     <img alt="Holi-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
