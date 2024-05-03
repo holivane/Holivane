@@ -37,8 +37,6 @@
     <img alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="Holi-NPM" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     <img alt="Holi-Yarn" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-    <img alt="Holi-MongoDB" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-    <img alt="Holi-Sequelize" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
     <img alt="Holi-GraphQL" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
     <img alt="Holi-BitBucket" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
     <img alt="Holi-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
