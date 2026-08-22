@@ -3,7 +3,7 @@
 ### Sobre mim
 <div>
   🔭 Desenvolvedora de Software  |  📚 Eterna estudante  |  🙋‍♀ Pronouns: ela/dela  |  💻 Principais linguagens: Javascript e Ruby  <br>
-  🤼‍♀‍ Atividades físicas: Muay Thay, Jiu-Jitsu e Musculação
+  🤼‍♀‍ Atividades físicas: Muay Thay, Jiu-Jitsu, Yoga, Natação e Musculação
 </div>
 
 ##
